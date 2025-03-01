@@ -1,0 +1,13 @@
+.env
+admins.txt
+/.venv
+giveaways.json
+giveaways_log.txt
+messages.log
+raw_message.log
+users.json
+donations.json
+promotions.txt
+/prizelists
+/whitelists
+/logs

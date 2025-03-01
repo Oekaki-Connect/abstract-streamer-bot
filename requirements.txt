@@ -1,0 +1,4 @@
+python-dotenv==0.21.1
+websockets==10.4
+requests==2.31.0
+playsound==1.2.2
