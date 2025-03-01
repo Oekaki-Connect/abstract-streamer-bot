@@ -269,9 +269,9 @@ When the chat sees a pinned donation message (e.g. “Tipped 500 PENGU”), the 
 Example thresholds in `bot.py`:
 ```python
 DONATION_SOUNDS = [
-    (100, "../sounds/donation_100.mp3"),
-    (500, "../sounds/donation_1000.mp3"),
-    (1000, "../sounds/donation_10000.mp3"),
+    (100, "../sounds/yay.mp3"),
+    (500, "../sounds/wow.mp3"),
+    (1000, "../sounds/amazing.mp3"),
 ]
 ```
 
