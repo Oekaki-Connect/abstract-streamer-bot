@@ -69,7 +69,7 @@ To get the API key and AUTH key:
 * Copy the api_key and authorization fields
 * Paste them into the .env file
 
-Important that you do not share the API and AUTH keys with anyone as they would allow you to post on your behalf.
+Important that you do not share the API and AUTH keys with anyone as they would allow them to post on your behalf.
 
 If you get an error with the bot connecting, get a fresh authorization key and add it to your `.env` file as these auth keys expire after a day or so.
 
