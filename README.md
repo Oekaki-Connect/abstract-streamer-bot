@@ -200,7 +200,7 @@ Commands are case-insensitive, but typically typed in all lowercase in chat.
   ```
   !creategiveaway, Super GA, !foam, 15, whitelisted, foamprizes, 2, 3
   ```
-  - **giveaway name**: A descriptive name (e.g. “Super GA”). (The word "giveaway" is block on Abstract chat so don't use that!)
+  - **giveaway name**: A descriptive name (e.g. “Super GA”). (The word "giveaway" is blocked on Abstract chat so don't use that!)
   - **entry command**: Must start with `!` (e.g. `!foam`). **Cannot** be a reserved command or already in use (otherwise it will overwrite an existing giveaway).
   - **minutes** (optional): How many minutes until auto-end. Omit or use `none` for no time limit.
   - **whitelist** (optional): Name of a file in `whitelists/`. If specified, only addresses in that file can enter.
@@ -351,7 +351,7 @@ You can also terminate it with `Ctrl+C` in the console, but that may skip a fina
 
 - **Bot fails to connect**:
   - Double-check `.env` credentials (`STREAM_API_KEY`, `STREAM_AUTH_KEY`).
-  - Confirm the `STREAMER_USERNAME` is correct and active in the Oekaki/Abstract Portal.
+  - Confirm the `STREAMER_USERNAME` is correct and active in the Abstract Portal.
 - **Bot messages have no effect**:
   - Verify the bot’s user ID matches `APP_WALLET_ADDRESS`.
 - **Cannot activate venv on Windows**:
