@@ -1,6 +1,6 @@
 # Abstract XP, Prizes, and Donation Soundboard Bot by Oekaki.io
 
-This bot powers the Abstract streaming chat experience with an XP and leveling system, giveaways, prize lists, donation sound alerts, and more. It listens to chat events, grants XP to users for participating (or donating), and allows admins to manage giveaways and prizes on the fly.
+This bot power up your Abstract streaming chat experience with an XP and leveling system, giveaways, prize lists, donation sound alerts, and more. It listens to chat events, grants XP to users for participating (or donating), and allows admins to manage giveaways and prizes on the fly.
 
 Below is everything you need to know to install, configure, and operate this bot.
 
