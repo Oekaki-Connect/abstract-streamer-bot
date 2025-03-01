@@ -18,6 +18,7 @@ This bot is provided AS-IS with NO WARRANTY.
 - **Donation Alerts**: Detects pinned donation messages and plays a configurable sound for certain donation thresholds.
 - **Promotion Messages** (Optional): Automatically posts promotional or informational messages at intervals.
 - **Message Logging**: The bot will record all messages in your stream to the logs folder. Every day has a new log.
+- **Donation Soundboard**: Play sounds when people donate a lot of PENGU!
 
 ---
 
@@ -316,7 +317,7 @@ If a prize list is attached, winners get assigned random items from that list (i
 
 - If `PROMOTIONS_ENABLED=1`, the bot will post lines from `promotions.txt` in intervals defined by `PROMOTION_INTERVAL_SECONDS`.
 - Each line in `promotions.txt` is posted in turn.
-- **No links** are allowed by the chat system in these promotional messages. Abstract chat will block many words from appearing in chats so ensure that your promotion messages don't have words on their blacklist otherwise they simply will not appear for others. You can have a friend watch your check as you test different promo messages.
+- **No links** are allowed by the chat system in these promotional messages. Abstract chat will block many words from appearing in chats so ensure that your promotion messages don't have words on their blacklist otherwise they simply will not appear for others. You can have a friend watch your cha as you test different promo messages.
 - These promo messages are useful to remind your chat of certain things you want them to know about.
 
 ---
