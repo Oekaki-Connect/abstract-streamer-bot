@@ -58,9 +58,9 @@ FINAL_COUNTDOWN_SECONDS = int(os.getenv("FINAL_COUNTDOWN_SECONDS", "10"))
 # Donation thresholds and corresponding sounds
 DONATION_SOUNDS = [
     # (minimum_pengu_for_this_sound, "path/to/sound_file.mp3" or .wav)
-    # (100, "../sounds/donation_100.mp3"),
-    # (500, "../sounds/donation_1000.mp3"),
-    # (1000, "../sounds/donation_10000.mp3"),
+    # (100, "../sounds/wow.mp3"),
+    # (500, "../sounds/nice.mp3"),
+    # (1000, "../sounds/amazing.mp3"),
 ]
 
 # reserved commands that cannot be used as giveaway entry commands
